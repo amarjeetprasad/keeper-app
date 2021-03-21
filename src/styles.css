@@ -1,0 +1,22 @@
+.body {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px 50px;
+}
+
+.all-done-btn {
+  display: block;
+  padding: 8px;
+  font-size: 1.2rem;
+  background: rgba(255, 0, 0, 0.8);
+  color: #fff;
+  border: none;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 0 5px gray;
+  outline: none;
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  margin: 40px auto;
+}
